@@ -1215,3 +1215,14 @@ footer .copy-right {
 
 @media (max-width: 1100px){ 
 }
+
+.musicIcon{
+	display: flex;
+    width: 40%;
+    cursor: pointer;
+    float: right;
+}
+.no-show{
+	display: none;
+}
+
